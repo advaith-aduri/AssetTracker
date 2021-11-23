@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name MCU_RaspberryPi_RP2040)(type Legacy)(uri /home/advaith/Education/Projects/Github/AssetTracker/kicad/lib/RP2040/MCU_RaspberryPi_RP2040.lib)(options "")(descr ""))
+  (lib (name sim800l)(type Legacy)(uri /home/advaith/Education/Projects/Github/AssetTracker/kicad/lib/SIM800L/SIM800L_lib/sim800l.lib)(options "")(descr ""))
+  (lib (name MAX17043)(type Legacy)(uri /home/advaith/Education/Projects/Github/AssetTracker/kicad/lib/MAX17043/MAX17043.lib)(options "")(descr ""))
+  (lib (name NXH5104)(type Legacy)(uri /home/advaith/Education/Projects/Github/AssetTracker/kicad/lib/NXH5104/NXH5104.lib)(options "")(descr ""))
+  (lib (name EEPROM_LOCAL)(type Legacy)(uri /home/advaith/Education/Projects/Github/AssetTracker/kicad/lib/EEPROM_LOCAL.lib)(options "")(descr ""))
+)
